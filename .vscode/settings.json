@@ -1,0 +1,8 @@
+{
+    "python.testing.pytestArgs": [
+        "Codeforces Round #840"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "C_Cpp.errorSquiggles": "disabled"
+}
